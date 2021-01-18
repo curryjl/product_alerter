@@ -32,8 +32,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-James Curry
-Clint Hobdy
+ex. James Curry
+ex. Clint Hobdy
 
 ## Version History
 
